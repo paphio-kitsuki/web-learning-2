@@ -1,0 +1,11 @@
+htmlで問題が起きたら...
+	1. 開発者ツールを開く(chromeでは縦の…→その他のツール→デベロッパーツール)
+	2. 赤い×がエラー。「at ～」にエラーの場所が示されている
+	3. その場所を修正。
+
+	変数の中身の確認には「console.log()」を使う。
+
+※ 条件式として代入式を書くと、常にtrueが返る
+
+下のURL先にさまざまなエラーの説明が書かれている
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Errors
